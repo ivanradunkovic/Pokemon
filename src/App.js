@@ -63,10 +63,10 @@ class App extends Component {
     }
 
     const pokedexButton = {
-      border: '5px solid black',
+      border: '4px solid black',
       backgroundColor: '#FF4D4D',
-      width: '75px',
-      height: '75px',
+      width: '85px',
+      height: '80px',
       color: 'white',
       borderRadius: '50%',
       position: 'fixed',
