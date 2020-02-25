@@ -29,7 +29,7 @@ class PokemonList extends Component {
 		return(	
 			<>	
 			<div style={pokedexContainer}>
-				<h2>My Pokedex</h2>				
+				<h2>Pokedex</h2>				
 				{this.props.pokemon ? (
 				<div style={pokemonList}>	
 					{this.props.pokemon.map(pokemon => (

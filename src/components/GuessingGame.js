@@ -67,7 +67,7 @@ class GuessingGame extends Component {
 		const pokemonImage = {
 			borderRadius: '50%',
 			backgroundColor: 'lightgray',
-			padding: '5%',
+			padding: '3%',
 			marginLeft: 'auto',
 			marginRight: 'auto',
 			marginTop: '5%',

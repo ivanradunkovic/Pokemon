@@ -52,12 +52,11 @@ class App extends Component {
   const Home = () => {
     const header = {
       backgroundColor: '#FF4D4D',
-      textAlign: 'center',
+      textAlign: 'center',  
       color: 'white',
-      borderBottom: '10px solid black',
+      borderBottom: '5px solid black',
       padding: '5%',
       margin: '0',
-      textTransform: 'uppercase',
       position: 'fixed',
       width: '100%'
     }
@@ -76,7 +75,7 @@ class App extends Component {
 
     return (
       <>
-      <h1 style={header}>Guess That Pokemon!</h1>
+      <h1 style={header}>Who's That Pokémon?</h1>
       <GuessingGame 
       pokemon={this.state.pokemon} 
       name={this.state.name} 
