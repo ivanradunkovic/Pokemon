@@ -1,7 +1,7 @@
-1.) Download or clore repository
-2.) cd to project folder
-3.) npm install (to install dependecies)
-4) npm start to run app on localhost
+1.) Download or clore repository\
+2.) cd to project folder\
+3.) npm install (to install dependecies)\
+4) npm start to run app on localhost\
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
