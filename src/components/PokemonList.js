@@ -12,16 +12,16 @@ class PokemonList extends Component {
       flexWrap: 'wrap',
       borderRight: '1px solid gray',
       overflow: 'scroll',
-      height: '100vh',
-      width: '50%'
+      height: '90vh',
+      width: '45%'
     }
 
     const pokedexContainer = {
-    	margin: '5%',
+    	margin: '1%',
     	top: '0',
     	position: 'fixed',
-    	border: '5px solid black',
-    	borderRadius: '20px',
+    	border: '2px solid black',
+    	borderRadius: '15px',
     	padding: '1%',
     	backgroundColor: 'white'
     }
