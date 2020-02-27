@@ -39,8 +39,6 @@ class GuessingGame extends Component {
 		if (this.props.name === this.state.value) {
 			alert('You guessed right!')
 			this.props.fetchData(true);
-
-			
 		}
 		else {
 			alert('You guessed wrong!')
