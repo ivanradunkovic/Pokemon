@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import PokemonList from './components/PokemonList.js';
 import GuessingGame from './components/GuessingGame.js';
 import './App.css';
-// import { BrowserRouter as Router, Route } from 'react-router-dom';
+// import ProgressBar from './ProgressBar';
 
 class App extends Component {
   constructor() {
