@@ -6,7 +6,7 @@
 
 ## Screens
 
-![image](https://github.com/ivanradunkovic/Pokemon/issues/1#issue-572563711)
+![1](https://user-images.githubusercontent.com/44583106/75517518-317c8c80-59ff-11ea-9063-590f9d4bce26.PNG)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
