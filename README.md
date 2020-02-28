@@ -4,9 +4,9 @@
 4) npm start to run app on localhost
 
 
-##Screens
+## Screens
 
-https://github.com/ivanradunkovic/Pokemon/issues/1#issue-572563711
+![image](https://github.com/ivanradunkovic/Pokemon/issues/1#issue-572563711)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
