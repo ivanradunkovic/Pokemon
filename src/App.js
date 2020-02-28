@@ -42,6 +42,7 @@ class App extends Component {
       .catch(err => console.log(err));
   }
 
+  
   //on click show or close pokedex
   handleClick() {
     this.setState({ showPokedex: !this.state.showPokedex });
