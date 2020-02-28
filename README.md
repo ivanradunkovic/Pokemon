@@ -6,9 +6,9 @@
 
 ## Screens
 
-![1](https://user-images.githubusercontent.com/44583106/75517518-317c8c80-59ff-11ea-9063-590f9d4bce26.PNG)\
+![1](https://user-images.githubusercontent.com/44583106/75517518-317c8c80-59ff-11ea-9063-590f9d4bce26.PNG)
 
-![2](https://user-images.githubusercontent.com/44583106/75518004-460d5480-5a00-11ea-9408-b2a833893fa1.PNG)\
+![2](https://user-images.githubusercontent.com/44583106/75518004-460d5480-5a00-11ea-9408-b2a833893fa1.PNG)
 
 ![3](https://user-images.githubusercontent.com/44583106/75518146-879dff80-5a00-11ea-8769-d5cfa6dfe768.PNG)
 

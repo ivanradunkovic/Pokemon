@@ -2,7 +2,8 @@ import React, { Component } from 'react';
 import PokemonList from './components/PokemonList.js';
 import GuessingGame from './components/GuessingGame.js';
 import './App.css';
-// import ProgressBar from './ProgressBar';
+// import PercentBar from "./PercentBar";
+
 
 class App extends Component {
   constructor() {
@@ -90,6 +91,7 @@ class App extends Component {
             <PokemonList
               pokemon={this.state.pokemon} />}
           <button type="button" onClick={this.handleClick} style={pokedexButton} className='pokedexBtn'>POKEDEX</button>
+          
         </>
       )
     }
